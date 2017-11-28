@@ -1,4 +1,4 @@
-/**
+IntersectionOfTwoSortedArray.java/**
  * Class printing out the intersection of two sorted arrays.
  *
  * @see <a href="https://cs125.cs.illinois.edu/lab/12/">Lab 12 Description</a>
@@ -55,7 +55,7 @@ public class IntersectionOfTwoSortedArray {
 		for (int num : intersection) {
 			System.out.print(num + " ");
 		}
-		System.out.println();
+		System.out.println("a");
 	}
 
 	/**
@@ -71,3 +71,4 @@ public class IntersectionOfTwoSortedArray {
 		return new int[0];
 	}
 }
+
